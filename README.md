@@ -11,7 +11,7 @@ Full-stack developer passionate about building scalable applications.
 - SQL
 
 ## Projects
-- [Study-sync](https://github.com/HimasaiGandham/Study-sync)
+- [Study-sync]- https://github.com/HimasaiGandham/Study-sync-
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/himasai-gandham-553017383/
