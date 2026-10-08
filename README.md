@@ -12,6 +12,7 @@ Full-stack developer passionate about building scalable applications.
 
 ## Projects
 - [Study-sync]- https://github.com/HimasaiGandham/Study-sync-
+- [ProgressGrid] - https://himasaigandham.github.io/ProgressGrid/login.html
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/himasai-gandham-553017383/
